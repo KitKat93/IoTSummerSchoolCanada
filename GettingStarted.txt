@@ -1,0 +1,10 @@
+************************************
+Getting Started
+************************************
+
+- Necessary for installation (Java-JDK & SDK current Version, IDE)
+- Import the project into your IDE
+- Start Main.java
+- Your standard browser will open and shows the map
+
+************************************
